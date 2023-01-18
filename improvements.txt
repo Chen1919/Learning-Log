@@ -1,0 +1,13 @@
+Back-end:
+- allow deleting of topics and entries
+- selective deleting
+
+Front-edn
+Home Page:
+    - Register button appear only when not logged in
+    - Have a continue to your logs button which is same as topics button
+
+Styling for:
+    new_topic, new_entry, edit_entry, and Register
+
+
