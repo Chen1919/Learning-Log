@@ -1,5 +1,5 @@
 # Learning-Log
-Track your learning
+A learning log to track your learning, built using Python and Django
 
 <img width="1435" alt="Screen Shot 2023-01-15 at 1 31 52 PM" src="https://user-images.githubusercontent.com/44295921/212560086-71713b1e-7052-4f8d-9ede-002239792089.png">
 
